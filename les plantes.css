@@ -1,0 +1,62 @@
+img {
+    max-width: 100%;
+    height: auto;
+  }
+  * {
+    box-sizing: border-box;
+  }
+.yassmine{
+        background-color:#98EE3C;
+		margin: auto;
+		text-align: center;
+
+}
+img{ width:574PX;
+height:400PX;
+	text-align:center;
+	margin-bottom :20px;
+	border: 8px solid #2BA30E;
+	
+}
+P{
+	text-align: center;
+	color:black;
+	font-size:16px;
+	width: 100%;
+	margin-top:20PX;
+	padding:10px;
+	font-style: normal;
+
+
+	
+}
+h1{
+		margin-right:100PX;
+
+		color:#41C223;
+			
+				text-align:center;
+
+  
+
+}
+h3{
+		margin-right:100PX;
+
+		color:#41C223;
+			
+				text-align:center;
+
+}
+.button-click{
+	margin: auto;
+	text-align: center;
+	margin: 10px 10px;
+
+}
+.button-click a{
+	text-decoration: none;
+	color: white;
+	font-size: large;
+	text-transform: capitalize;
+}
